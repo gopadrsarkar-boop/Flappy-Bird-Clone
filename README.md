@@ -4,3 +4,4 @@ All the audio files were taken from Zedge and the image files were drawn by me(I
 This project uses infinite loops, for loops, if-else statements.
 It uses the mixer import for keeping check of the sounds.
 It loops the background music ith a -1.
+You can also choose and change the background of the game if you want to by pressing the m,n,b,v,c keys and eack give a separate background.
